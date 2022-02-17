@@ -1,2 +1,1 @@
-# landing_page
-this is big team projects
+A small site created for partfole
